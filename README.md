@@ -27,6 +27,7 @@
 - [Architecture & Tech Stack](#-architecture--tech-stack)
 - [Bug Reports & Feedback](#-bug-reports--feedback)
 - [Frequently Asked Questions (FAQ)](#-frequently-asked-questions)
+- [Support GhostPad](#-support-ghostpad)
 - [License](#-license)
 
 ---
@@ -158,6 +159,18 @@ Click the **Lock icon** in the top navigation bar to switch to **Movable Mode**.
 
 ### Can I run GhostPad from a USB flash drive?
 **Yes.** Download the **Portable Edition** (`GhostPad-Portable.zip`). It includes an automatic `portable.dat` flag that forces GhostPad to store all notes, settings, and cache locally inside a `./data/` subfolder.
+
+---
+
+## ☕ Support GhostPad
+
+GhostPad is completely free, non-commercial, and open-source. If it brings a little peace to your desktop or makes your daily workflow smoother, buying a coffee is a wonderful way to show support!
+
+<p align="center">
+  <a href="https://buymeacoffee.com/nxsxhb" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" />
+  </a>
+</p>
 
 ---
 
