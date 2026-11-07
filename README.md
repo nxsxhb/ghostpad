@@ -19,8 +19,7 @@
 ---
 
 ## 📌 Table of Contents
-- [Why GhostPad?](#-why-ghostpad)
-- [Feature Comparison](#-feature-comparison)
+- [About GhostPad](#-about-ghostpad)
 - [Key Features](#-key-features)
 - [Download & Installation](#-download)
 - [Keyboard Shortcuts](#-keyboard-shortcuts)
@@ -32,29 +31,13 @@
 
 ---
 
-## 💡 Why GhostPad?
+## 🍃 About GhostPad
 
-Most Windows note-taking apps and sticky note widgets have major friction points:
-- **They clutter your Taskbar and <kbd>Alt</kbd> + <kbd>Tab</kbd> switcher.**
-- **Pressing <kbd>Win</kbd> + <kbd>D</kbd> minimizes all your notes**, hiding your to-do list right when you want to see your desktop.
-- **They demand cloud accounts, internet connections, and slow Electron runtimes.**
+GhostPad is a lightweight, distraction-free desktop notepad built for people who want a quiet scratchpad directly on their wallpaper.
 
-**GhostPad solves this completely.** By natively anchoring to the Windows Shell desktop layer (`SHELLDLL_DefView`), GhostPad becomes an organic part of your wallpaper. It sits behind every active application when you work, yet stays immediately visible and interactive the moment you glance at your desktop.
+Instead of popping up over your work or cluttering your taskbar, GhostPad is anchored directly to your desktop background. When you are working in your browser, IDE, or other apps, it stays quietly in the background. When you glance at your desktop, your notes and to-do lists are right there waiting for you. It never minimizes when you press <kbd>Win</kbd> + <kbd>D</kbd>.
 
----
-
-## 📊 Feature Comparison
-
-| Feature | GhostPad | Windows Sticky Notes | Notion / Obsidian | Notepad.exe |
-| :--- | :---: | :---: | :---: | :---: |
-| **Glued to Wallpaper** (Behind all apps) | ✅ **Yes** | ❌ Always-on-top | ❌ Windowed | ❌ Windowed |
-| **Persists on <kbd>Win</kbd> + <kbd>D</kbd>** | ✅ **Never minimizes** | ❌ Minimizes | ❌ Minimizes | ❌ Minimizes |
-| **Zero Taskbar / Alt+Tab Clutter** | ✅ **Clean** | ❌ Clutters | ❌ Clutters | ❌ Clutters |
-| **Auto-Hide Zen Mode Header** | ✅ **Yes** | ❌ No | ❌ No | ❌ No |
-| **Hardware Corner Rounding (0–28px)** | ✅ **Live Slider** | ❌ Fixed | ❌ Fixed | ❌ Fixed |
-| **Interactive Checklists & Tabs** | ✅ **Yes** | ⚠️ Basic | ✅ Yes | ❌ No |
-| **100% Offline & Private (JSON)** | ✅ **Zero Telemetry** | ❌ Microsoft Sync | ⚠️ Mixed | ✅ Yes |
-| **Portable Mode (USB / Zero Install)** | ✅ **Yes (`./data/`)** | ❌ No | ❌ No | ❌ No |
+It requires no accounts, contains zero ads or telemetry, and saves all your notes locally on your computer in plain JSON. We built this tool to fit our own daily desktop workflow — we hope you find it useful too! Feel free to give it a spin and let us know what you think.
 
 ---
 
