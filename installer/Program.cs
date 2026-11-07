@@ -383,7 +383,7 @@ namespace GhostPadSetup
                 {
                     key.SetValue("DisplayName", "GhostPad");
                     key.SetValue("DisplayVersion", "1.0.0");
-                    key.SetValue("Publisher", "GhostPad Contributors");
+                    key.SetValue("Publisher", "nxsxhb");
                     key.SetValue("DisplayIcon", exePath);
                     key.SetValue("InstallLocation", installDir);
                     key.SetValue("UninstallString", $"cmd.exe /c taskkill /f /im GhostPad.exe & rmdir /s /q \"{installDir}\" & reg delete \"HKCU\\{keyPath}\" /f");

@@ -26,6 +26,7 @@
 - [Keyboard Shortcuts](#-keyboard-shortcuts)
 - [Use Cases](#-use-cases)
 - [Architecture & Tech Stack](#-architecture--tech-stack)
+- [Bug Reports & Feedback](#-bug-reports--feedback)
 - [Frequently Asked Questions (FAQ)](#-frequently-asked-questions)
 - [License](#-license)
 
@@ -146,6 +147,18 @@ All notes and preferences are saved in plain, human-readable JSON files:
 - **Persistence**: High-speed JSON disk serializer
 
 For a deep technical breakdown of Win32 desktop Z-order layering and DWM window clipping, read the [`GHOSTPAD_KNOWLEDGE_BASE.md`](GHOSTPAD_KNOWLEDGE_BASE.md).
+
+---
+
+## 🐛 Bug Reports & Feedback
+
+Bug reports, feature suggestions, and feedback are warmly welcomed!
+
+- **Found a bug or glitch?** Please [open a Bug Report on GitHub Issues](https://github.com/nxsxhb/ghostpad/issues/new).
+- **Have an idea or feature request?** Feel free to start a thread or submit a proposal.
+- **Direct contact:** Reach out directly via GitHub [@nxsxhb](https://github.com/nxsxhb).
+
+Every report helps make GhostPad cleaner, smoother, and more reliable for everyone.
 
 ---
 
