@@ -1,0 +1,23 @@
+# Build and publish outputs
+**/bin/
+**/obj/
+**/publish/
+publish-package/
+publish-selfcontained/
+*.zip
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs and crash dumps
+*.log
+crash.log
+messages.log
+
+# IDE and tool directories
+.vs/
+.vscode/
+.idea/
